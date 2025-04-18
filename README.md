@@ -6,7 +6,8 @@ Ce projet propose une visualisation 3D interactive de la ville de **Rabat** et u
 
 ## 📷 Aperçu
 
-![Capture d'écran](./assets/screenshot.png) <!-- Remplace par un vrai lien vers ton image si tu en as une -->
+![image](https://github.com/user-attachments/assets/7175759c-2123-4a81-b4d4-e7646c3c055a)
+
 
 ## 🚀 Fonctionnalités
 
